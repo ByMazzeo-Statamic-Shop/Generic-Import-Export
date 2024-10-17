@@ -1,0 +1,16 @@
+{
+    "name": "by-mazzeo/generic-import-export",
+    "description": "Statamic addon for importing and exporting data",
+    "autoload": {
+        "psr-4": {
+            "ByMazzeo\\GenericImportExport\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jordi Gasau",
+            "email": "jordi.gasau@gmail.com"
+        }
+    ],
+    "require": {}
+}
